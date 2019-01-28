@@ -6,7 +6,8 @@
 	<version>1.0</version>
 	<modules>
 		<module>Patterns</module>
-	</modules>
+        <module>OOP</module>
+    </modules>
 	<name>Practice</name>
 	<url>https://github.com/MikhailKlimentyev/Practice</url>
 
